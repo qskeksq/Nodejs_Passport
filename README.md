@@ -1,5 +1,5 @@
-# Session
-세션을 이용한 로그인 구현
+# Passport
+Passport 모듈을 통한 사용자 인증(Authentication)
 
 ### 모듈 import
 
